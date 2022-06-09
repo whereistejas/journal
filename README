@@ -1,0 +1,1 @@
+pass edit journal/$(date '+%Y-%m-%d')
